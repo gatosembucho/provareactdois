@@ -1,2 +1,8 @@
-1)
-2
+1-Se nada for colocado no segundo parametro do useeffect o efeito sera excecutado apenas uma vez
+
+2- "prop" é o componente pai que disponibiliza os dados aos outros componentes
+
+3- o tailwind oferece customização total por conta das classes unitárias, o que permite criar estilos sem dependencias, alem de so compilar os estilos necessários resultando em arquivos menores e assim mais espaço.
+
+
+4- c
